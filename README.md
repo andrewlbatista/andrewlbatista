@@ -61,13 +61,20 @@ QA Engineer com experiência em aplicações **Web, Mobile e APIs REST**, atuand
 
 ## 📂 Portfólio de Projetos QA
 
-Aqui você encontrará projetos organizados por tipo de teste:
+### 🔌 API Testing
+- [🧪 Financial API Testing - QA Portfolio](https://github.com/andrewlbatista/qa-api-tests)
 
-- 🔹 Web Testing
-- 🔹 API Testing
-- 🔹 Mobile Testing
-- 🔹 Estratégias de Teste
-- 🔹 Cenários BDD e automação
+### 🌐 Web Testing
+- Em construção
+
+### 📱 Mobile Testing
+- Em construção
+
+### 🧠 Estratégia de Testes
+- Em construção
+
+### 🤖 BDD e Automação
+- Em construção
 
 ---
 
