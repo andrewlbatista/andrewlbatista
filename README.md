@@ -2,7 +2,7 @@
 QA Engineer | Web, Mobile & API | Testes Funcionais, Automação & Integração | Sistemas Financeiros | CTFL • CTFL-AT
 </h3>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 👨‍💻 Sobre mim
 
@@ -83,4 +83,3 @@ Aqui você encontrará projetos organizados por tipo de teste:
 </a>
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
