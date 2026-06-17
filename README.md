@@ -6,6 +6,8 @@ QA Engineer | Web, Mobile & API | Testes Funcionais, Automação & Integração 
 
 ## 👨‍💻 Sobre mim
 
+Manaus-AM 📍
+
 QA Engineer com experiência em aplicações **Web, Mobile e APIs REST**, atuando em sistemas financeiros de alta criticidade.
 
 - 🔍 Foco em qualidade ponta a ponta (E2E)
