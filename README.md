@@ -1,94 +1,138 @@
-<h3 align="center">
-QA Engineer | Web, Mobile & API | Testes Funcionais, Automação & Integração | Sistemas Financeiros | CTFL • CTFL-AT
-</h3>
+<h2 align="center">Andrew Batista</h2>
+
+<h4 align="center">
+QA Engineer • Engenharia da Qualidade • Estratégia de Testes • Web • Mobile • APIs • Sistemas Financeiros
+</h4>
+
+<p align="center">
+Transformando conhecimento em Engenharia da Qualidade em projetos práticos, documentando todas as etapas do ciclo de qualidade de software.
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👋 Sobre mim
 
-Manaus-AM 📍
+📍 Manaus - AM, Brasil
 
-QA Engineer com experiência em aplicações **Web, Mobile e APIs REST**, atuando em sistemas financeiros de alta criticidade.
+Sou QA Engineer com experiência em aplicações **Web, Mobile e APIs REST**, atuando em sistemas financeiros de alta criticidade.
 
-- 🔍 Foco em qualidade ponta a ponta (E2E)
-- 🧠 Atuação desde a análise de requisitos (Shift Left)
-- 🔗 Integração entre Produto, Dev e Negócio
-- 📊 Validação de regras de negócio e integridade de dados
-- 🚀 Experiência com ambientes ágeis (Scrum/Kanban)
+Minha atuação vai além da execução de testes. Tenho interesse em todo o ciclo de Qualidade de Software, participando desde a análise de requisitos e definição da estratégia de testes até a automação, integração contínua e evolução dos processos de qualidade.
+
+Atualmente estou desenvolvendo um portfólio prático para consolidar conhecimentos em Engenharia da Qualidade, reunindo documentação, planejamento, testes manuais, automação, CI/CD, métricas e governança em um único projeto.
 
 ---
 
-## 🧪 Áreas de Atuação
+# 🎯 Áreas de Atuação
 
-### 🌐 Web Testing
-- Testes funcionais e exploratórios
-- Validação de UI/UX
-- Testes de regressão
-
-### 📱 Mobile Testing
-- Testes em aplicações mobile
-- Validação de fluxos críticos
-- Testes em produção assistida
-
-### 🔌 API Testing
-- Testes REST (Postman / Insomnia)
-- Validação de contratos e payloads
-- Testes de integração e fluxos assíncronos
-
----
-
-## 🧠 Práticas de QA
-
-- ✔️ Modelagem de cenários de teste (BDD / Gherkin)
-- ✔️ Análise de requisitos e critérios de aceite
-- ✔️ Estratégia de testes (Shift Left)
-- ✔️ Testes de regressão e integração
-- ✔️ Reporte estruturado de bugs
-- ✔️ Validação em banco de dados (SQL / NoSQL)
-- ✔️ Acompanhamento de CI/CD
+- Engenharia da Qualidade
+- Análise de Requisitos
+- Planejamento e Estratégia de Testes
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Testes Web
+- Testes Mobile
+- Testes de APIs REST
+- Validação de Banco de Dados
+- Gestão e Reporte de Defeitos
+- BDD (Gherkin)
+- Shift Left Testing
+- Metodologias Ágeis (Scrum e Kanban)
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+# 🚀 Projeto em Destaque
 
-<img src="https://skillicons.dev/icons?i=python,git,github,postgres,mongodb&theme=dark" />
+## 🛒 ShopSphere – Portfólio de Engenharia da Qualidade
 
-- Python (Pytest, Requests)
-- Postman / Insomnia
-- Azure DevOps / Jira
-- CI/CD (GitHub Actions, Jenkins)
-- SQL / MongoDB
+Projeto desenvolvido para simular a atuação de um QA Engineer em um ambiente corporativo, contemplando todas as etapas do ciclo de Qualidade de Software.
+
+O projeto será evoluído continuamente e incluirá:
+
+- Engenharia de Requisitos
+- Histórias de Usuário
+- Estratégia de Testes
+- Planejamento de Testes
+- Análise de Riscos
+- Casos e Cenários de Teste
+- Massa de Testes
+- Execução dos Testes
+- Gestão de Defeitos
+- Automação Web
+- Automação de APIs
+- CI/CD
+- Relatórios de Qualidade
+- Dashboards
+- Indicadores (KPIs)
+- Inteligência Artificial aplicada à Qualidade
+- Governança de Qualidade
+
+> Este projeto representa minha evolução contínua em Engenharia da Qualidade e será atualizado conforme novas funcionalidades forem desenvolvidas.
 
 ---
 
-## 📂 Portfólio de Projetos QA
+# 🛠️ Tecnologias e Ferramentas
 
-### 🔌 API Testing
-- [🧪 Financial API Testing - QA Portfolio](https://github.com/andrewlbatista/qa-api-tests)
+### Testes
 
-### 🌐 Web Testing
-- Em construção
+- Testes Funcionais
+- Testes de APIs
+- Testes Mobile
+- Validação SQL
+- BDD (Gherkin)
 
-### 📱 Mobile Testing
-- Em construção
+### Ferramentas
 
-### 🧠 Estratégia de Testes
-- Em construção
+- Postman
+- Insomnia
+- Jira
+- Azure DevOps
+- Git
+- GitHub
 
-### 🤖 BDD e Automação
-- Em construção
+### Integração Contínua
+
+- GitHub Actions
+- Jenkins
+
+### Banco de Dados
+
+- PostgreSQL
+- MongoDB
+
+### Linguagens
+
+- Python
+- SQL
 
 ---
 
-## 📫 Contato
+# 📂 Projetos
 
-<div align="left">
+| Projeto | Descrição | Status |
+|----------|-----------|--------|
+| 🛒 ShopSphere – Portfólio de Engenharia da Qualidade | Projeto completo cobrindo todo o ciclo de Qualidade de Software | 🚧 Em desenvolvimento |
+| 🔌 Financial API Testing | Portfólio de testes funcionais em APIs REST | ✅ Disponível |
+
+---
+
+# 📜 Certificações
+
+- ISTQB® Certified Tester Foundation Level (CTFL)
+- ISTQB® Certified Tester Agile Tester (CTFL-AT)
+
+---
+
+# 📫 Contato
+
+<p align="left">
+
 <a href="mailto:andrewcaio@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6">
+<img src="https://img.shields.io/badge/Email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/andrewlbatista">
-<img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6">
+<img src="https://img.shields.io/badge/LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</div>
 
+</p>
