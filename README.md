@@ -117,13 +117,13 @@ Simula um ambiente corporativo real, contemplando todo o ciclo de qualidade de s
 
 🔗 https://github.com/andrewlbatista/shopsphere-financial-platform
 
----
 
 ## Financial API Testing
 
 Portfólio de testes funcionais e automação de APIs REST.
 
 🔗 https://github.com/andrewlbatista/qa-api-tests
+
 ---
 
 # 📜 Certificações
