@@ -107,13 +107,23 @@ O projeto será evoluído continuamente e incluirá:
 
 ---
 
-# 📂 Projetos
+# 📂 Portfólio de Projetos
 
-| Projeto | Descrição | Status |
-|----------|-----------|--------|
-| 🛒 ShopSphere – Portfólio de Engenharia da Qualidade | Projeto completo cobrindo todo o ciclo de Qualidade de Software | 🚧 Em desenvolvimento |
-| 🔌 Financial API Testing | Portfólio de testes funcionais em APIs REST | ✅ Disponível |
+## ShopSphere Financial Platform 
 
+Projeto principal do meu portfólio de Engenharia da Qualidade.
+
+Simula um ambiente corporativo real, contemplando todo o ciclo de qualidade de software, desde a Engenharia de Requisitos até automação, CI/CD, métricas e governança.
+
+🔗 https://github.com/andrewlbatista/shopsphere-financial-platform
+
+---
+
+## Financial API Testing
+
+Portfólio de testes funcionais e automação de APIs REST.
+
+🔗 https://github.com/andrewlbatista/qa-api-tests
 ---
 
 # 📜 Certificações
